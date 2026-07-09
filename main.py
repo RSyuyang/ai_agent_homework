@@ -10,6 +10,7 @@ llm = ChatOpenAI(
     model="qwen2.5-7b-instruct",
     temperature=0
 )
+# 第二次提交，补充说明
 
 MEMORY_FILE = "memory.json"
 
